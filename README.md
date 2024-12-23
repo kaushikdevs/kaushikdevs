@@ -41,17 +41,17 @@
 <li><a target="_blank" href="https://blog.kaushikdevs.com/understanding-web3-the-future-of-the-internet">Understanding Web3: The Future of the Internet</a></li>
 <li><a target="_blank" href="https://blog.kaushikdevs.com/exploring-the-frontiers-of-artificial-intelligence-and-machine-learning">Exploring the Frontiers of Artificial Intelligence & Machine Learning</a></li>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/dev_kaushikk" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/kaushik-hirpara-10b672240/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/kush__.099/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="undefinedhttps://medium.com/@mcoder004" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+<p><a target="_blank" href="https://twitter.com/dev_kaushikk" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/kaushik-hirpara-10b672240" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.instagram.com/kush__.099" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="undefined@mcoder004" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kaushikdevs&show_icons=true&locale=en" alt="kaushikdevs" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaushikdevs&" alt="kaushikdevs" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaushikdevs&show_icons=true&locale=en&layout=compact" alt="kaushikdevs" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaushikdevs" alt="kaushikdevs" /></a></p>
 <h2>❤️ Support Me</h2>
 <p><p>
-<a href="https://www.buymeacoffee.com/https://buymeacoffee.com/kaushikdevs">
+<a href="https://www.buymeacoffee.com/kaushikdevs">
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 </p>
